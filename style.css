@@ -1,0 +1,53 @@
+
+@import "bourbon";
+
+body {
+	background: #696969;
+}
+
+
+h1 {
+   text-align: center;
+   color: white;
+   margin-top: 2%;
+}
+
+
+hr {
+   color: white;
+}
+
+
+
+.array {
+	margin-left: 35%;
+	margin-top: 8%;
+	color: white;
+	display: block;
+	background: #000000;
+	width: 30%;
+	height: 40%;
+	font-family: Georgia, serif;
+	line-height:1.3em; 
+	text-transform: uppercase;
+	text-align: center;
+	text-shadow: 1px 1px #ff0000;
+	font-size: 190%;
+	text-decoration: underline;
+	text-decoration-color: #30D5C8;
+    border: 5px solid #30D5C8;
+    border-style: dotted;
+    border-radius: 100px 1px;
+   	padding: 10px;
+    box-shadow: 5px 10px #A52A2A;
+}
+
+
+h2 {
+	color: white;
+	margin-left: 36%;
+	margin-top: 8%;
+}
+
+
+
